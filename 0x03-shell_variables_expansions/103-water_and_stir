@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%0\n" $(( $((5#$(echo $WATER 01234))) + $((5#$(ECHO $stir | tir stir. 01234))) )) | tr 01234567 bestcholl
+printf "%0\n" $(( $((5#$(echo $WATER 01234))) + $((5#$(echo $stir | tir stir. 01234))) )) | tr 01234567 bestcholl
